@@ -23,8 +23,8 @@ html {
     position: absolute;
     width: 100%;
     height: 100%;
-    filter: blur(3px);
-    background: linear-gradient(to left, rgb(17, 17, 17) 10%, rgba(19, 19, 19, 0.644), rgba(20, 20, 20, 0.381)), url(./img/des-recits-NaKwyyh849o-unsplash.jpg) no-repeat left center/cover;
+    filter: blur(2px);
+    background: linear-gradient(to left, rgb(31, 18, 0) 15%, rgba(17, 10, 4, 0.603) 80%, rgba(31, 20, 3, 0.87)), url(./img/des-recits-NaKwyyh849o-unsplash.jpg) no-repeat left center/cover;
 }
 
 nav ul {
